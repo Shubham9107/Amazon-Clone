@@ -57,7 +57,7 @@ const Cart = () => {
                       <p className="xl:pr-10 text-sm">{item.description}</p>
                       <p className="text-base">
                         Unit Price:{" "}
-                        <span className="font-semibold">${item.price}</span>
+                        <span className="font-semibold">8377{item.price}</span>
                       </p>
                       <div className="bg-[#F0F2F2] flex justify-center items-center gap-2 w-36 py-1 text-center drop-shadow-lg rounded-md">
                         <p className="text-base font-normal">Qty:</p>
